@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Manish Kumar
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Programming in Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 Email id : manishnpu2018@gmail.com
+This is a commercial website known for the product of Mishti Enterprises. You can purchase the product by calling the authorised person . Contact no is available on the contact section of the website. You can also book the hotels room in advance . For that you can contact the booking manager. If you have any query, you can write to us on contact page. :)
 
-<!---
-Manishkr2021/Manishkr2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Link to the website :-
